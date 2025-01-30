@@ -6,11 +6,14 @@ This project utilizes Natural Language Processing (NLP) techniques to perform se
 
 ## 🛠️ Technologies & Tools
 **Programming Language**: Python 🐍
+
 **Libraries Used**:
 - **Data Handling & Processing**: Pandas, NumPy
 - **NLP Techniques**: NLTK
 - **Visualization**: Matplotlib, Seaborn, WordCloud
+  
 **Dataset**: Kaggle (Squid Game reviews & social media posts)
+
 **Platform**: Google Colab
   
 ## 📌 Features
