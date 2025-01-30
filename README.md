@@ -26,9 +26,12 @@ This project utilizes Natural Language Processing (NLP) techniques to perform se
 ## 🚀 How to Run
 **1. Clone the Repository**
 ![image](https://github.com/user-attachments/assets/90c1431c-7a3c-4a13-8ff4-1f174e62541d)
+
 **2. Open the Jupyter Notebook on Google Colab**
+
 **3. Install Dependencies (if needed)**
 ![image](https://github.com/user-attachments/assets/240a1cf5-f1c1-4ea4-8add-b788236f09d5)
+
 **4. Run the Notebook & Analyze Results**
 
 ## 📊 Results & Insights
