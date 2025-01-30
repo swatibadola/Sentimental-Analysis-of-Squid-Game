@@ -15,8 +15,11 @@ This project utilizes Natural Language Processing (NLP) techniques to perform se
   
 ## 📌 Features
 ✔️ **Text Preprocessing** – Tokenization, stopword removal, lemmatization
+
 ✔️ **Sentiment Classification** – Positive, negative, or neutral analysis
+
 ✔️ **Data Visualization** – Sentiment distribution, word clouds, and insights
+
 ✔️ **High Accuracy** – Achieved 90% accuracy in sentiment prediction
 
 
