@@ -5,16 +5,16 @@
 This project utilizes Natural Language Processing (NLP) techniques to perform sentiment analysis on reviews and social media posts from the Squid Game dataset, sourced from Kaggle. The goal is to classify text as positive, negative, or neutral, providing insights into audience reactions.
 
 ## 🛠️ Technologies & Tools
-- **Programming Language**: Python 🐍
+ **Programming Language**: Python 🐍
 
-- **Libraries Used**:
+ **Libraries Used**:
 - **Data Handling & Processing**: Pandas, NumPy
 - **NLP Techniques**: NLTK
 - **Visualization**: Matplotlib, Seaborn, WordCloud
   
-- **Dataset**: Kaggle (Squid Game reviews & social media posts)
+ **Dataset**: Kaggle (Squid Game reviews & social media posts)
 
-- **Platform**: Google Colab
+ **Platform**: Google Colab
   
 ## 📌 Features
 ✔️ **Text Preprocessing** – Tokenization, stopword removal, lemmatization
